@@ -1,0 +1,48 @@
+export const ArticleData = [
+  {
+    id: '1jkdsf',
+    title: 'Snow',
+    field: 'wood',
+    isFeature: 1,
+    thumbnail: { url: '/images/tree.jpg' },
+  },
+  {
+    id: 2,
+    title: 'Lannister',
+    field: 'wood',
+    isFeature: -1,
+    thumbnail: { url: '/images/tree.jpg' },
+  },
+  {
+    id: '3sjfklsd',
+    title: 'Lannister',
+    field: 'Jaime',
+    isFeature: 1,
+    thumbnail: { url: '/images/tree.jpg' },
+  },
+  { id: 4, name: 'Stark', field: 'wood', isFeature: 1, thumbnail: { url: '/images/tree.jpg' } },
+  {
+    id: 5,
+    title: 'Targaryen',
+    field: 'Daenerys',
+    isFeature: -1,
+    thumbnail: { url: '/images/tree.jpg' },
+  },
+  {
+    id: 6,
+    title: 'Melisandre',
+    field: 'Stack',
+    isFeature: 1,
+    thumbnail: { url: '/images/tree.jpg' },
+  },
+  { id: 7, name: 'Clifford', field: 'wood', isFeature: -1, thumbnail: { url: '/images/tree.jpg' } },
+  {
+    id: 8,
+    title: 'Frances',
+    field: 'Rossini',
+    isFeature: 1,
+    thumbnail: { url: '/images/tree.jpg' },
+  },
+  { id: 9, title: 'Roxie', field: 'Harvey', isFeature: -1, thumbnail: { url: '/images/tree.jpg' } },
+  { id: 19, title: 'Roie', field: 'paper', isFeature: -1, thumbnail: { url: '/images/tree.jpg' } },
+];

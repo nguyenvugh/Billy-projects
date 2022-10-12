@@ -1,0 +1,43 @@
+.sidebar {
+  min-height: 100vh;
+  height: 100%;
+  overflow: auto;
+  background-color: #2f49d1;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.sidebar__logo {
+  text-align: center;
+  height: 60px;
+  margin: auto;
+}
+
+.sidebar__logo img {
+  margin-top: 15px;
+}
+
+.sidebar__list {
+  font-weight: 600 !important;
+}
+
+.sidebar__list__item {
+  margin-top: 20px !important;
+}
+
+.sidebar__list__item__activated {
+  background-color: #002d7c !important;
+  border-radius: 4px !important;
+  color: #ffffff !important;
+}
+
+.sidebar__list__item__children__item {
+  padding-left: 80px !important;
+  padding: 10px;
+  color: #8696d7 !important;
+}
+
+.sidebar__list__active {
+  background-color: rgba(244, 244, 244, 0.15);
+}
+/*# sourceMappingURL=style.css.map */

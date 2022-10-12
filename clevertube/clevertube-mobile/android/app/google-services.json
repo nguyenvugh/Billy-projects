@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "213696605314",
+    "project_id": "bili-dev",
+    "storage_bucket": "bili-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213696605314:android:f22db5950f40992b84989b",
+        "android_client_info": {
+          "package_name": "com.bili.clevertube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213696605314-j23fkh0ij9akao7lvscnegcj7s042oco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bili.clevertube",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "213696605314-hbs530r83vb2anga4sv7lf7kjt8249om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xcvSug_ZKboHwPkFLeRKg-Ghul7YDJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213696605314-hbs530r83vb2anga4sv7lf7kjt8249om.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213696605314-3mtsjsn6r5hnhqevola0g79k8bckmird.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clevertubemobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213696605314:android:588349dc342f45a284989b",
+        "android_client_info": {
+          "package_name": "com.clevertube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213696605314-k06f2u0p3thetlbapq644tt4mjo44p0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clevertube",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "213696605314-hbs530r83vb2anga4sv7lf7kjt8249om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xcvSug_ZKboHwPkFLeRKg-Ghul7YDJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213696605314-hbs530r83vb2anga4sv7lf7kjt8249om.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213696605314-3mtsjsn6r5hnhqevola0g79k8bckmird.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clevertubemobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213696605314:android:7647d3bc7c05de2c84989b",
+        "android_client_info": {
+          "package_name": "com.clevertubemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213696605314-isoakmv176bt21mkv5kr601fruem6f0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clevertubemobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "213696605314-hbs530r83vb2anga4sv7lf7kjt8249om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xcvSug_ZKboHwPkFLeRKg-Ghul7YDJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213696605314-hbs530r83vb2anga4sv7lf7kjt8249om.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213696605314-3mtsjsn6r5hnhqevola0g79k8bckmird.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clevertubemobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

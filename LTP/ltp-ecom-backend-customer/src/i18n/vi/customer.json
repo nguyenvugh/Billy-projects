@@ -1,0 +1,19 @@
+{
+  "email": {
+    "existed": "Email đã bị trùng. Vui lòng nhập thông tin khác!"
+  },
+  "product_review": {
+    "existed": "Đánh giá của khách hàng đã tồn tại!"
+  },
+  "phone_number": {
+    "existed": "Số điện thoại bị trùng"
+  },
+  "password": {
+    "not_match": "Mật khẩu không đúng",
+    "change_password_same": "Mật khẩu cũ và mới không được trùng nhau"
+  },
+  "validate": {
+    "not_found": "Người dùng không tồn tại",
+    "not_active": "Người dùng chưa được kích hoạt"
+  }
+}

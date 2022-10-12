@@ -1,0 +1,16 @@
+.docs {
+  img {
+    clear: both;
+    text-align: center;
+    display: table;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  figure {
+    margin: 1em auto;
+    margin-block-start: 1em !important;
+    margin-block-end: 1em !important;
+    margin-inline-start: 1em !important;
+    margin-inline-end: 1em !important;
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+build
+.eslintrc*
+.next
+next-env.d.ts

@@ -1,0 +1,8 @@
+{
+  "message": {
+    "fav_updated": "Đã cập nhật sản phẩm yêu thích thành công",
+    "fav_deleted": "Đã xóa sản phẩm yêu thích thành công",
+    "fav_delete_fail": "Xóa sản phẩm yêu thích không thành công",
+    "all_fav_deleted": "Đã xóa toàn bộ sản phẩm yêu thích thành công"
+  }
+}

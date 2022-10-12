@@ -1,0 +1,8 @@
+{
+  "product_statuses": {
+    "1": "Vừa mở bán",
+    "2": "Còn hàng",
+    "3": "Sắp bán hết",
+    "4": "Cháy hàng"
+  }
+}

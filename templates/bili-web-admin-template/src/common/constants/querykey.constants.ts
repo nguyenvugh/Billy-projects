@@ -1,0 +1,5 @@
+// DECLARE QUERY KEY FOR REACT QUERY
+export const QUERY_KEY = Object.freeze({
+  HELLO_WORLD: "HELLO_WORLD",
+  USER_LIST: "USER_LIST",
+});

@@ -1,0 +1,87 @@
+{
+  "name": "ltp-ecommerce",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "env-cmd -f .env.development next dev",
+    "staging": "env-cmd -f .env.staging next dev",
+    "start_development": "env-cmd -f .development.env next start",
+    "run:development": "env-cmd -f .development.env next dev",
+    "run:staging": "env-cmd -f .staging.env next dev",
+    "run:production": "env-cmd -f .production.env next dev",
+    "build:development": "env-cmd -f .development.env next build",
+    "build:staging": "env-cmd -f .staging.env next build",
+    "build:production": "env-cmd -f .production.env next build",
+    "start:development": "env-cmd -f .development.env next start",
+    "start:staging": "env-cmd -f .staging.env next start",
+    "start:production": "env-cmd -f .production.env next start",
+    "build": "next build",
+    "start": "next start",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json}\"",
+    "lint": "eslint --fix .",
+    "export": "next build && next export",
+    "sitemap": "next-sitemap --config next-sitemap.config.js"
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.18.2",
+    "@chakra-ui/counter": "^1.1.5",
+    "@chakra-ui/icons": "^1.0.13",
+    "@chakra-ui/react": "^1.6.1",
+    "@chakra-ui/theme": "^1.8.5",
+    "@chakra-ui/theme-tools": "^1.1.7",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "axios": "^0.21.1",
+    "chakra-paginator": "^0.7.1",
+    "crypto-js": "^4.0.0",
+    "env-cmd": "^10.1.0",
+    "firebase": "^8.7.1",
+    "formik": "^2.2.9",
+    "framer-motion": "^4.1.16",
+    "google-map-react": "^2.1.10",
+    "isomorphic-dompurify": "^0.15.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "next": "^10.2.2",
+    "next-translate-routes": "^1.7.1",
+    "prettier": "^2.2.1",
+    "prop-types": "^15.7.2",
+    "qs": "^6.10.1",
+    "react": "17.0.2",
+    "react-cookie": "^4.1.1",
+    "react-datepicker": "^4.1.1",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-image-zooom": "^1.0.4",
+    "react-messenger-customer-chat": "^0.8.0",
+    "react-responsive-carousel": "^3.2.18",
+    "react-share": "^4.4.0",
+    "react-toastify": "^8.0.2",
+    "react-use-cart": "^1.11.1",
+    "sass": "^1.32.13",
+    "swr": "^0.5.6"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "husky": "^4.3.8",
+    "lint-staged": "^10.5.4",
+    "next-sitemap": "^2.5.20"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/*.{js,jsx,ts,tsx}": [
+      "prettier --write .",
+      "eslint --fix ."
+    ]
+  }
+}

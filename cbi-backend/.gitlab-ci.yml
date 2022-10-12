@@ -1,0 +1,109 @@
+workflow:
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - if: $CI_COMMIT_BRANCH == "develop"
+    # - if: $CI_COMMIT_BRANCH == "prod"
+
+# do not use "latest" here, if you want this to work in the future
+image: docker/compose:alpine-1.29.2
+
+services:
+  - docker:19.03.15-dind
+
+variables:
+  ENV_CI_NAME: dev-remote
+  CI_AWS_ECS_CLUSTER: cbi-dev-cluster
+  CI_AWS_ECS_SERVICE: cbi-dev-service
+  CI_AWS_ECS_TASK_DEFINITION: cbi-dev-task-def
+
+stages:
+  - before_action
+  - pre-build
+  - build
+  # - test
+  - release
+  - deploy_dev
+
+# prepare environment data...
+# We need to install firebase admin sdk json like env
+pre-build:
+  stage: pre-build
+  environment:
+    name: $ENV_CI_NAME
+  image: registry.gitlab.com/gitlab-org/cloud-deploy/aws-base:latest
+  only:
+    - develop
+  script:
+    - aws s3 cp s3://cbi-s3-dev-bucket/.dev-remote.env ./.env
+  artifacts:
+    expire_in: 2 hrs
+    paths:
+      - ./.env
+
+.before_action:
+  stage: before_action
+  before_script:
+    - docker version
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    - docker-compose version
+
+# build stage
+build:
+  stage: build
+  environment:
+    name: $ENV_CI_NAME
+  extends:
+    - .before_action
+  # only:
+  #   - develop
+  script:
+    - docker pull $CI_REGISTRY_IMAGE:latest || true
+    - docker build --cache-from $CI_REGISTRY_IMAGE:latest --tag $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA .
+    - docker push $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA
+# test stage
+# test:
+#   stage: test
+#   environment:
+#     name: $ENV_CI_NAME
+#   only:
+#     - develop
+#   extends:
+#     - .before_action
+#   script:
+#     - docker pull $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA
+#     - docker tag $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA $CI_REGISTRY_IMAGE:latest
+#     - docker-compose up -d dev
+#     - docker-compose exec -T dev yarn test
+#   dependencies:
+#     - pre-build
+#   coverage: /All files[^|]*\|[^|]*\s+([\d\.]+)/
+#   artifacts: # Thêm vào phần này
+#     paths:
+#       - coverage/
+#     expire_in: 1 day
+
+# release stage
+release:
+  variables:
+    GIT_STRATEGY: none # not clone source code to Gitlab runner
+  environment:
+    name: $ENV_CI_NAME
+  extends:
+    - .before_action
+  # only:
+  #   - develop
+  stage: release
+  script:
+    - docker pull $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA
+    - docker tag $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA $CI_REGISTRY_IMAGE:latest
+    - docker push $CI_REGISTRY_IMAGE:latest
+# # deploy stage
+deploy_dev:
+  stage: deploy_dev
+  environment:
+    name: $ENV_CI_NAME
+  image: registry.gitlab.com/gitlab-org/cloud-deploy/aws-base:latest
+  script:
+    - echo "Updating the service..."
+    - aws ecs update-service --cluster "${CI_AWS_ECS_CLUSTER}" --service "${CI_AWS_ECS_SERVICE}"  --task-definition "${CI_AWS_ECS_TASK_DEFINITION}" --force-new-deployment

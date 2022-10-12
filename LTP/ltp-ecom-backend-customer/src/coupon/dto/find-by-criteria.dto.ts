@@ -1,0 +1,27 @@
+import { ApiProperty } from '@nestjs/swagger';
+import { Type } from 'class-transformer';
+import { IsOptional } from 'class-validator';
+import PaginateDto from 'src/common/dtos/paginate.dto';
+import { CouponSearchStatusConst } from '../../common/constants/coupon.constant';
+
+export class FindCouponByCriteriaDto extends PaginateDto {
+  // @IsOptional()
+  // @ApiProperty({
+  //   required: false,
+  // })
+  // search_value: string;
+  // @IsOptional()
+  // @Type(() => Number)
+  // @ApiProperty({
+  //   required: false,
+  //   type: Number,
+  //   enum: [
+  //     CouponSearchStatusConst.HAPPENING,
+  //     CouponSearchStatusConst.UPCOMING,
+  //     CouponSearchStatusConst.EXPIRED,
+  //   ],
+  // })
+  // status: number;
+
+  lang: string;
+}

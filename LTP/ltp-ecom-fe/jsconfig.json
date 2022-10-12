@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@ltp/components/*": ["components/*"],
+      "@ltp/constants/*": ["constants/*"],
+      "@ltp/utils/*": ["utils/*"],
+      "@ltp/styles/*": ["styles/*"],
+      "@ltp/services/*": ["services/*"],
+      "@ltp/hooks/*": ["hooks/*"]
+    }
+  }
+}

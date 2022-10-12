@@ -1,0 +1,37 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.vscode/settings.json
+
+# testing
+/coverage
+test-report.xml
+junit.xml
+
+# next.js
+/.next/
+/out/
+
+# pipelines
+bitbucket-pipelines.yml
+# production
+/build
+
+# misc
+.DS_Store
+*.yaml.dec
+newrelic_agent.log
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env files
+.env*
+
+#Ide generate folder
+/.idea

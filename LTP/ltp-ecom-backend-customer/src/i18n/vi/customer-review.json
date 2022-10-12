@@ -1,0 +1,9 @@
+{
+  "validate": {
+    "existed": "Đã đánh giá cho sản phẩm rồi"
+  },
+  "message": {
+    "created": "Đã thêm đánh giá sản phẩm thành công",
+    "create_fail": "Thêm đánh giá sản phẩm không thành công"
+  }
+}

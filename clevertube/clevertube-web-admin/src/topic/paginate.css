@@ -1,0 +1,26 @@
+.pagination {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.page-link {
+  font-weight: 400;
+  font-size: 18px;
+  color: #aca9a9;
+}
+
+.page-item.active .page-link {
+  color: #756c6c;
+}
+
+.page-item.disabled .page-link {
+  color: #d2d2d4;
+  pointer-events: none;
+}
+
+.page-item.disabled {
+  cursor: no-drop;
+}

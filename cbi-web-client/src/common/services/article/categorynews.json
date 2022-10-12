@@ -1,0 +1,404 @@
+[
+  {
+    "children": {
+      "data": [
+        {
+          "author": "OXFam VN",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 4,
+          "scheduled_at": "2022-02-19T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://oi-files-cng-prod.s3.amazonaws.com/vietnam.oxfam.org/s3fs-public/styles/full-width-670x335-2_1/public/20. IMG_2638.jpg?itok=OQDJNBg2"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "[Booklet] Dự án Hỗ trợ Doanh nghiệp vì Mục đích phát triển giai đoạn 2 (2018 - 2021)",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        },
+        {
+          "author": "OXFam VN",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 5,
+          "scheduled_at": "2022-02-17T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://danviet.mediacdn.vn/thumb_w/650/2020/4/9/indiapoor-15864249094161136506868.jpg"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam: Đại dịch Covid-19 đang đẩy nửa triệu người vào cảnh nghèo đói",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        },
+        {
+          "author": "OXFam VN",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 3,
+          "scheduled_at": "2022-02-20T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-24/1434417026-ijffba_hoa_vixp.jpg"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Đại diện Oxfam tại Việt Nam: \"Đất và Người\" tôn vinh giá trị người nông dân",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        },
+        {
+          "author": "OXFam VN",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 9,
+          "scheduled_at": "2022-02-20T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://danviet.mediacdn.vn/zoom/250_156/upload/4-2013/images/2013-11-04/1434786689-a2cox.jpg"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam: Luật Đất đai cần “phản ánh đầy đủ nguyện vọng nhân dân”",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        }
+      ],
+      "totalRecords": 3
+    },
+    "created_at": "2021-07-23T06:16:28.000Z",
+    "deleted": -1,
+    "features": [],
+    "id": 36,
+    "order": 0,
+    "translates": [
+      {
+        "id": 115,
+        "language_code": "vi",
+        "language_field": "name",
+        "language_value": "Danh mục Tin tức",
+        "news_category": 3
+      },
+      {
+        "id": 116,
+        "language_code": "en",
+        "language_field": "name",
+        "language_value": "Company",
+        "news_category": 36
+      }
+    ],
+    "updated_at": "2021-07-23T06:16:28.000Z"
+  },
+  {
+    "children": {
+      "data": [
+        {
+          "author": "OXFam VN",
+          "category": 37,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 6,
+          "scheduled_at": "2022-02-19T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://danviet.mediacdn.vn/upload/2-2017/images/2017-05-18/149509963461864-anh-1--21-.jpg"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam công bố danh sách “15 thiên đường thuế”",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        },
+        {
+          "author": "OXFam VN",
+          "category": 37,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 7,
+          "scheduled_at": "2022-02-17T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://danviet.mediacdn.vn/zoom/250_156/upload/2-2014/images/2014-04-29/1434380372-e5a4lua.jpg"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam khuyến nghị đẩy mạnh nông nghiệp sinh thái",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        },
+        {
+          "author": "Oxfam VN",
+          "category": 37,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 8,
+          "scheduled_at": "2022-02-20T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://danviet.mediacdn.vn/upload/2-2013/images/2013-04-08/1434786454-84_11_nong-dan.jpg"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam: Trồng lúa ngày càng ít lãi",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        },
+        {
+          "author": "Oxfam VN",
+          "category": 37,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 10,
+          "scheduled_at": "2022-02-20T10:45:00.000Z",
+          "status": 2,
+          "thumbnail": 2126,
+          "thumbnail_obj": {
+            "deleted": -1,
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "url": "https://danviet.mediacdn.vn/upload/4-2013/images/2013-10-27/1434788808-4c3oxfam2.jpg"
+          },
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Grow Oxfam đồng hành cùng Cuộc thi ảnh Đất & Người",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "OXFam VN",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>OXFam VN <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ],
+          "updated_at": "2021-11-30T10:45:58.000Z"
+        }
+      ],
+      "totalRecords": 3
+    },
+    "created_at": "2021-07-23T06:16:28.000Z",
+    "deleted": -1,
+    "features": [],
+    "id": 37,
+    "order": 0,
+    "translates": [
+      {
+        "id": 115,
+        "language_code": "vi",
+        "language_field": "name",
+        "language_value": "Danh mục Sự kiện",
+        "news_category": 3
+      },
+      {
+        "id": 116,
+        "language_code": "en",
+        "language_field": "name",
+        "language_value": "Company",
+        "news_category": 36
+      }
+    ],
+    "updated_at": "2021-07-23T06:16:28.000Z"
+  }
+]

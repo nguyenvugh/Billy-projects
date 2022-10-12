@@ -1,0 +1,86 @@
+{
+  "root": true,
+  "parser": "@babel/eslint-parser",
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:jsx-a11y/recommended",
+    "plugin:react-hooks/recommended",
+    "airbnb"
+  ],
+  "rules": {
+    "react/jsx-no-bind": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "no-useless-constructor": "off",
+    "react/jsx-curly-newline": "off",
+    "no-return-assign": "off",
+    "react/forbid-prop-types": "off",
+    "no-confusing-arrow": "off",
+    "no-plusplus": "off",
+    "function-paren-newline": "off",
+    "consistent-return": "off",
+    "import/prefer-default-export": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/no-danger": "off",
+    "implicit-arrow-linebreak": "off",
+    "no-return-await": "off",
+    "no-nested-ternary": "off",
+    "no-restricted-syntax": "off",
+    "indent": "off",
+    "react/jsx-indent": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/no-cycle": "off",
+    "eqeqeq": "off",
+    "no-underscore-dangle": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-wrap-multilines": "off",
+    "no-unused-expressions": "off",
+    "radix": "off",
+    "no-use-before-define": "off",
+    "react/destructuring-assignment": "off",
+    "object-curly-newline": "off",
+    "react/no-array-index-key": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+    "import/no-named-as-default-member": "off",
+    "no-shadow": "off",
+    "operator-linebreak": "off",
+    "camelcase": "off",
+    "import/no-named-as-default": "off",
+    "import/no-unresolved": "off",
+    "quotes": [2, "double", { "avoidEscape": true }],
+    "react/jsx-filename-extension": 0,
+    "react/prop-types": "off",
+    "jsx-a11y/href-no-hash": "off",
+    "react/react-in-jsx-scope": "off",
+    "jsx-a11y/anchor-is-valid": [
+      "error",
+      {
+        "components": ["Link"],
+        "specialLink": ["hrefLeft", "hrefRight"],
+        "aspects": ["invalidHref", "preferButton"]
+      }
+    ]
+  },
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "plugins": ["react"]
+}

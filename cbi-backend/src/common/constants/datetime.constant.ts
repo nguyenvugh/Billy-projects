@@ -1,0 +1,26 @@
+export const DATE_TIME_CONST = {
+  UNIT_TIMES: {
+    YEARS: 'years',
+    MONTHS: 'months',
+    WEEKS: 'weeks',
+    DAYS: 'days',
+    HOURS: 'hours',
+    MINUTES: 'minutes',
+    SECONDS: 'seconds',
+    YEAR: 'year',
+    MONTH: 'month',
+    QUARTER: 'quarter',
+    WEEK: 'week',
+    ISOWEEK: 'isoweek',
+    DAY: 'day',
+    DATE: 'date',
+    HOUR: 'hour',
+    MINUTE: 'minute',
+    SECOND: 'second',
+  },
+  FORMATS: {
+    FORMAT_TIMESTAMP_WITH_TIMEZONE: 'YYYY-MM-DD HH:mm:ss.SSS Z',
+    FORMAT_TIMESTAMP_WITHOUT_TIMEZONE: 'YYYY-MM-DD HH:mm:ss',
+  },
+  DEFAULT_TIMEZONE: 'Asia/Ho_Chi_Minh',
+};

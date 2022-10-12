@@ -1,0 +1,21 @@
+{
+  "types": {
+    "1": {
+      "name": "Tiền mặt khi nhận hàng",
+      "description": "Thanh toán sau khi nhận được hàng"
+    },
+    "2": {
+      "name": "Thanh toán trực tuyến",
+      "description": "Thanh toán trực tuyến"
+    },
+    "3": {
+      "name": "Liên hệ Nhựa Long Thành",
+      "description": "Nhân viên Nhựa Long Thành sẽ liên hệ với quý khách để thỏa thuận về hình thức thanh toán sau khi đặt hàng thành công"
+    }
+  },
+  "online_payment_tax": {
+    "international": "Thẻ quốc tế Visa, Master, UnionPay phát hành Việt Nam",
+    "domestic": "Thẻ nội địa",
+    "qr": "QR code"
+  }
+}

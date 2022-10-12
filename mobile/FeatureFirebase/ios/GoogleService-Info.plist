@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>142849813121-uslvnl9dd54sgsibil23o5m14cns7ut5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.142849813121-uslvnl9dd54sgsibil23o5m14cns7ut5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA41bVJr2Z3Kh0MU3ref87DbPocEmRlGF8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>142849813121</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>billi</string>
+	<key>PROJECT_ID</key>
+	<string>fir-authen-f83b7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-authen-f83b7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:142849813121:ios:5d33452d3c234d2a0efb80</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-authen-f83b7-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

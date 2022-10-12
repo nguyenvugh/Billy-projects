@@ -1,0 +1,42 @@
+.menu {
+  height: 60px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+  position: relative;
+}
+
+.menu__profile-dropdown-btn {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  right: 20px;
+  top: calc(30px - 20px);
+  cursor: pointer;
+}
+
+#profile-menu .MuiMenu-paper {
+  top: 55px !important;
+  -webkit-box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+          box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  border: 1px solid #E2E2E2;
+}
+
+.profile-menu__item {
+  border-bottom: 1px solid #DFDFDF !important;
+}
+
+.profile-menu__item span {
+  margin-left: 15px;
+  font-size: 16px !important;
+}
+
+.profile-menu__item:last-child {
+  border: none !important;
+}
+
+.profile-menu__item.red {
+  color: #FF0733;
+}
+/*# sourceMappingURL=style.css.map */

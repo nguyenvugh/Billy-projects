@@ -1,0 +1,553 @@
+{
+  "title": "Hành động về khí hậu",
+  "content": "Chỉ số Khí hậu Doanh nghiệp là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP) cho các công ty tư nhân để đánh giá và ghi nhận đóng góp của họ để giảm phát thải khí nhà kính và giải quyết các tác động của biến đổi khí hậu.",
+  "quiz": [
+    {
+      "title": "Trong sản xuất lúa, doanh nghiệp của anh chị có bị ảnh hưởng bởi các điều kiện bất thường của thời tiết không? Nếu có thì doanh nghiệp đã thay đổi lịch thời vụ để thích ứng với thời tiết bất thuận (hạn, rét, mưa/bão) chưa?",
+      "data": [
+        {
+          "name": "A. Không",
+          "point": 0
+        },
+        {
+          "name": "B. Bị ảnh hưởng nhưng chưa thay đổi lịch thời vụ",
+          "point": 3
+        },
+        {
+          "name": "C. Bị ảnh hưởng và đã thay đổi thời vụ",
+          "point": 0
+        }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng nặng bởi thời tiết bất thuận, doanh nghiệp có thay đổi cơ cấu cây trồng để thích ứng với thời tiết bất thuận (mặn, hạn, rét, mưa/bão) không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng nặng bởi hạn, Doanh nghiệp có sử dụng giống lúa chịu hạn không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón hữu cơ để tăng cường khả năng chống hạn cho cây ?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón (bổ sung Ca, Mg: ví dụ phân lân nung chảy Văn Điển), hoặc CaSO4 để tăng cường khả năng chống mặn cho cây ?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp/Hợp tác xã có thường xuyên cập nhật thông tin về độ mặn để điều tiết nước tưới cho lúa không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng nặng bởi mặn, Doanh nghiệp có sử dụng giống lúa chịu mặn không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng mặn bởi phèn, Doanh nghiệp có sử dụng giống lúa chịu phèn ?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Trong những năm sâu bệnh phát triển, Doanh nghiệp có sử dụng giống lúa chống chịu sâu bệnh không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng giống lúa chống đổ ngã không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón (phân kali) để tăng cường khả năng chống rét cho cây ?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón (phân lân nung chảy), vôi để tăng cường khả năng chống phèn cho cây ?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có đầu tư hệ thống tưới tiêu chủ động cho lúa không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có đầu tư hệ thống tự động hóa trong tưới tiêu cho cây lúa không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có dùng Drone trong phun thuốc BVTV cho cây lúa không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các phần mềm hỗ trợ dự tính, dự báo phòng trừ sâu bệnh không?",
+      "data": [
+        { "name": "A. Không.", "point": 0 },
+        { "name": "B. Có.", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp đã áp dụng công nghệ nào trong dự tính, dự báo điều kiện sản xuất, điều kiện chăm sóc để phù hợp với đặc tính của giống lúa?",
+      "data": [
+        {
+          "name": "A. Chưa áp dụng công nghệ nào",
+          "point": 0
+        },
+        {
+          "name": "B. Đang lên kế hoạch áp dụng công nghệ .",
+          "point": 0
+        },
+        {
+          "name": "C. Đã áp dụng công nghệ trong dự tính, dự báo điều kiện sản xuất, điều kiện chăm sóc để phù hợp với đặc tính của giống lúa (nêu rõ đang áp dụng công nghệ nào).",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp/Hợp tác xã có thường xuyên quan tâm đến các thông tin về các hiện tượng thời tiết cực đoan hay không? Quan tâm và nắm bắt thông tin bằng cách nào và từ đó có đưa ra kế hoạch thích ứng không?",
+      "data": [
+        {
+          "name": "A. Sử dụng kinh nghiệm dân gian.",
+          "point": 0
+        },
+        {
+          "name": "B. Nắm bắt các thông tin qua đài phát thanh, đài truyền hình và các ứng dụng điện thoại.",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Hàng năm, trước mùa mưa bão thì DN đã chuẩn bị kế hoạch gia cố nhà xưởng, văn phòng hay chưa?",
+      "data": [
+        {
+          "name": "A. Chưa thực hiện gia cố lại văn phòng, nhà máy của doanh nghiệp.",
+          "point": 0
+        },
+        {
+          "name": "B. Đang lên kế hoạch gia cố lại văn phòng, nhà máy của doanh nghiệp.",
+          "point": 0
+        },
+        {
+          "name": "C. Đã thực hiện gia cố lại toàn bộ các văn phòng, nhà máy của doanh nghiệp.",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có chủ động tổ chức các lớp tập huấn nâng cao năng lực ứng phó với BĐKH và thiên tai cho cán bộ chưa?",
+      "data": [
+        {
+          "name": "A. Không tham gia các khóa đào tạo, tập huấn.",
+          "point": 0
+        },
+        {
+          "name": "B. Không chủ động tổ chức nhưng có tham gia các lớp đào tạo, tập huấn của tỉnh, huyện (, phòng Nông nghiệp, Sở NN, Sở TNMT).",
+          "point": 0
+        },
+        {
+          "name": "C. Đã chủ động tổ chức các lớp tập huấn nâng cao năng lực ứng phó với BĐKH.",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sẵn sàng tham gia bảo hiểm nông nghiệp/ bảo hiểm cho sản xuất lúa không?",
+      "data": [
+        {
+          "name": "A. Không sẵn sàng tham gia.",
+          "point": 0
+        },
+        {
+          "name": "B. Sẵn sàng tham gia.",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp hợp tác với các trường đại học, viện nghiên cứu  hoặc các công ty nghiên cứu, kinh doanh giống lúa (đơn vị phân phối giống) như thế nào? ",
+      "data": [
+        { "name": "A. Chưa hợp tác.", "point": 0 },
+        {
+          "name": "B. Đang hợp tác với ít nhất một trường đại học, viện nghiên cứu hoặc công ty nghiên cứu về giống cây trồng",
+          "point": 0
+        },
+        {
+          "name": "C. Đã thành lập bộ phận chuyên nghiên cứu về các giống lúa",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Hiện nay, doanh nghiệp của anh/chị sử dụng biện pháp quản lý nước như thế nào?",
+      "data": [
+        {
+          "name": "A. Để ruộng ngập nước thường xuyên, chỉ tháo nước trước khi thu hoạch (CF - Continous flooding irrigation)",
+          "point": 0
+        },
+        {
+          "name": "B.  Rút nước giữa vụ (5-7 ngày) vào cuối thời kỳ đẻ nhánh (MS-Mid season drainage)",
+          "point": 0
+        },
+        {
+          "name": "C. Tưới nước khô ẩm xen kẽ (AWD-Alternative wetting and drying)- Rút nước nhiều hơn 2 lần/vụ lúa",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp của anh/chị Quản lý nước trên ruộng lúa trong thời gian đất nghỉ giữa 2 vụ lúa như thế nào?",
+      "data": [
+        {
+          "name": "A. > 30 ngày và ruộng ngập nước",
+          "point": 0
+        },
+        {
+          "name": "B. < 180 ngày và ruộng không ngập nước",
+          "point": 0
+        },
+        {
+          "name": "C. > 180 ngày và ruộng không ngập nước",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp của bạn chọn giải pháp xử lý rơm rạ trên đồng ruộng như thế nào?",
+      "data": [
+        {
+          "name": "A. Đốt rơm rạ trực tiếp trên ruộng sau thu hoạch lúa",
+          "point": 0
+        },
+        {
+          "name": "B. Vùi rơm rạ tươi vào đất < 30 ngày trước khi trồng lúa",
+          "point": 0
+        },
+        {
+          "name": "C. Vùi rơm rạ tươi vào đất > 30 ngày trước khi trồng lúa",
+          "point": 0
+        },
+        {
+          "name": "D. Ủ hoai rơm rạ sau đó bón trả lại đất < 30 ngày trước khi trồng lúa",
+          "point": 0
+        },
+        {
+          "name": "E. Ủ hoai rơm rạ sau đó bón trả lại đất > 30 ngày trước khi trồng lúa",
+          "point": 0
+        },
+        {
+          "name": "F. Mang rơm rạ ra khỏi ruộng, không vùi trả lại đất",
+          "point": 0
+        },
+        {
+          "name": "G. Sản xuất than sinh học (TSH) từ rơm rạ, sau đó bón TSH trả lại đất",
+          "point": 13
+        }
+      ]
+    },
+    {
+      "title": "Trong quá trình canh tác lúa, doanh nghiệp của bạn có sử dụng phân chuồng hay phân hữu cơ không ?",
+      "data": [
+        {
+          "name": "A. Bón phân chuồng tươi",
+          "point": 0
+        },
+        {
+          "name": "B. Bón phân chuồng đã ủ hoai ",
+          "point": 0
+        },
+        {
+          "name": "C. Bón phân hữu cơ vi sinh/sinh học",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Hiện nay, doanh nghiệp sử dụng loại phân đạm nào bón cho cây lúa ?",
+      "data": [
+        {
+          "name": "A. Chỉ sử dụng phân Urê",
+          "point": 0
+        },
+        {
+          "name": "B. Sử dụng phân Urê kết hợp phân phức NPK",
+          "point": 0
+        },
+        {
+          "name": "C. Sử dụng phân Urê bọc polime; Urê bọc chất ức chế quá trình thủy phân Urê (n-BTPT); Urê bọc chất ức chế quá trình Nitrat hóa (DCD)",
+          "point": 0
+        },
+        {
+          "name": "D. Chỉ sử dụng phân phức hợp NPK",
+          "point": 7
+        }
+      ]
+    },
+    {
+      "title": "Cách bón phân đạm cho canh tác lúa hiện nay mà doanh nghiệp đang áp dụng?",
+      "data": [
+        {
+          "name": "A. Bón phân đạm vãi trên mặt ruộng ",
+          "point": 0
+        },
+        {
+          "name": "B. Bón phân đạm vãi trên mặt ruộng kết hợp sục bùn, để vùi phân đạm vào đất",
+          "point": 0
+        },
+        {
+          "name": "C. Bón phân đạm dúi sâu vào đất",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng giống lúa thuần thay cho giống lúa lai để giảm phát thải KNK ?",
+      "data": [
+        {
+          "name": "A. Chọn giống lúa lai (có thời gian sinh trưởng dài và sinh khối lớn)",
+          "point": 0
+        },
+        {
+          "name": "B. Chọn giống lúa thuần (có thời gian sinh trưởng ngắn và sinh khối ít hơn lúa lai)",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Lượng thóc giống sử dụng trong canh tác lúa của doanh nghiệp so với lượng thóc giống của canh tác lúa truyền thống tại địa phương",
+      "data": [
+        {
+          "name": "A. Lượng thóc giống giảm < 30%",
+          "point": 0
+        },
+        {
+          "name": "B. Lượng thóc giống giảm (30-50%)",
+          "point": 0
+        },
+        {
+          "name": "C. Lượng thóc giống giảm> 50%",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Tổng lượng phân bón NPK sử dụng cho một ha lúa của doanh nghiệp so với tổng lượng phân bón NPK sử dụng theo canh tác lúa truyền thống tại địa phương",
+      "data": [
+        {
+          "name": "A. Giảm 10% so với canh tác truyền thống",
+          "point": 0
+        },
+        {
+          "name": "B. Giảm 20% so với canh tác truyền thống",
+          "point": 0
+        },
+        {
+          "name": "C. Giảm 30% so với canh tác truyền thống",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Tổng Lượng thuốc BVTV sử dụng cho một ha lúa của doanh nghiệp so với tổng lượng thuốc BVTV sử dụng theo canh tác lúa truyền thông tại địa phương?",
+      "data": [
+        {
+          "name": "A. Giảm 10% so với canh tác truyền thống",
+          "point": 0
+        },
+        {
+          "name": "B. Giảm 20% so với canh tác truyền thống",
+          "point": 3
+        },
+        {
+          "name": "C. Giảm >30% so với canh tác truyền thống",
+          "point": 0
+        }
+      ]
+    },
+    {
+      "title": "Tổng Lượng nước sử dụng cho một ha lúa của doanh nghiệp so với tổng lượng nước sử dụng theo canh tác lúa truyền thống tại địa phương?",
+      "data": [
+        {
+          "name": "A. Giảm 10% so với canh tác truyền thống",
+          "point": 0
+        },
+        {
+          "name": "B. Giảm 20% so với canh tác truyền thống",
+          "point": 0
+        },
+        {
+          "name": "C. Giảm > 30% so với canh tác truyền thống",
+          "point": 5
+        }
+      ]
+    },
+    {
+      "title": "Việc vận chuyển lúa từ ruộng về công ty được doanh nghiệp của bạn thực hiện như thế nào?",
+      "data": [
+        {
+          "name": "A. Vận chuyển bằng xe tải",
+          "point": 0
+        },
+        {
+          "name": "B. Vận chuyển bằng thuyền chạy dầu",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp của bạn sử dụng nguồn năng lượng nào để sấy lúa?",
+      "data": [
+        { "name": "A. Than", "point": 0 },
+        { "name": "B. Trấu", "point": 0 },
+        { "name": "C. Điện", "point": 5 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp của anh/chị áp dụng công nghệ sấy lúa nào ?",
+      "data": [
+        {
+          "name": "A. Sấy truyền thống (đốt trực tiếp vật liệu)",
+          "point": 0
+        },
+        {
+          "name": "B. Lò khí hóa liên tục",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp anh chị đang sử dụng công nghệ say xát gạo gì ?",
+      "data": [
+        {
+          "name": "A. Công nghệ say xát cũ",
+          "point": 0
+        },
+        {
+          "name": "B. Công nghệ say xát mới",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp anh chị đang sử dụng công nghệ đánh bóng gạo gì ?",
+      "data": [
+        {
+          "name": "A. Công nghệ đánh bóng gạo cũ",
+          "point": 0
+        },
+        {
+          "name": "B. Công nghệ đánh bóng gạo mới",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp anh chị đang sử dụng công nghệ đóng gói gạo gì ?",
+      "data": [
+        {
+          "name": "A. Công nghệ đóng gói gạo cũ",
+          "point": 0
+        },
+        {
+          "name": "B. Công nghệ đóng gói gạo mới",
+          "point": 3
+        }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng bao bì thân thiện với khí hậu không (nilon tự tiêu; nilon thường, giấy,...)?",
+      "data": [
+        { "name": "A. Không", "point": 0 },
+        { "name": "B. Có", "point": 3 }
+      ]
+    },
+    {
+      "title": "Quy trình sản xuất, canh tác có theo tiêu chuẩn VietGAP hay tiêu chuẩn hữu cơ không?",
+      "data": [
+        { "name": "A. Không", "point": 0 },
+        { "name": "B. Có", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp của anh chị có kế hoạch cấp chứng nhận carbon footprint (dấu vết carbon) cho sản phẩm lúa gạo của mình không?",
+      "data": [
+        { "name": "A. Không", "point": 0 },
+        { "name": "B. Có", "point": 3 }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp của bạn có ít nhất 1 lần thay đổi quy trình sản xuất lúa gạo để giảm phát thải KNK không?",
+      "data": [
+        { "name": "A. Không", "point": 0 },
+        { "name": "B. Có", "point": 3 }
+      ]
+    },
+    {
+      "title": "Anh/chị có thể thấy được được các rủi ro do khí thải nhà kính và/hoặc cơ hội nhờ giảm khí thải nhà kính trong vận hành doanh nghiệp không?",
+      "data": [
+        {
+          "name": "A. Có. Tôi có lên kế hoạch thực hiện các hoạt động thích ứng.",
+          "point": 3,
+          "data_multiple": [
+            "1/ Hành động giảm thiểu các hiện tượng cực đoan trong vận hành doanh nghiệp",
+            "2/ Hành động giảm thiểu các hiện tượng cực đoan trong vận hành doanh nghiệp",
+            "3/ Hành động giảm thiểu các hiện tượng cực đoan trong vận hành doanh nghiệp",
+            "4/ Hành động giảm thiểu các hiện tượng cực đoan trong vận hành doanh nghiệp"
+          ],
+          "type": ["multi-choice", "upload-file", "essay"]
+        },
+        {
+          "name": "B. Không. Tôi chưa lên kế hoạch nào.",
+          "point": 0
+        }
+      ]
+    },
+    {
+      "title": "Anh/chị vui lòng đăng tải những tài liệu liên quan để bài đánh giá CEBI được điểm cao hơn.",
+      "data": [
+        {
+          "name": "",
+          "title": "Tài liệu liên quan --- Tài liệu có thể là: Báo cáo từ phía công ty, quy trình làm việc của công ty trong khía cạnh bảo vệ khí hậu,...",
+          "type": ["upload-file", "essay"]
+        }
+      ]
+    }
+  ]
+}

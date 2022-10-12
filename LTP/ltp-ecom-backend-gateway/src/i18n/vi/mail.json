@@ -1,0 +1,9 @@
+{
+  "customer": {
+    "subject": {
+      "forget_password": "Khởi tạo lại mật khẩu",
+      "confirm_email": "Xác thực email",
+      "guest_create_order": "Xác nhận đơn hàng"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "drivers": {
+    "1": {
+      "name": "Giao hàng tiết kiệm",
+      "types": {
+        "1": {
+          "name": "Giao tiêu chuẩn",
+          "description": "Dự kiến từ 7 - 10 ngày"
+        },
+        "2": {
+          "name": "Giao nhanh",
+          "description": "Dự kiến từ 3 - 5 ngày"
+        }
+      }
+    },
+    "2": {
+      "name": "Nhựa Long Thành",
+      "types": {
+        "1": {
+          "name": "Giao tiêu chuẩn",
+          "description": "Liên hệ sau"
+        }
+      }
+    }
+  },
+  "filter_status": {
+    "1": "Đã xác nhận",
+    "2": "Đang lấy hàng",
+    "3": "Đang giao hàng",
+    "4": "Đã giao hàng",
+    "5": "Giao một phần",
+    "6": "Trả hàng",
+    "7": "Đã hủy"
+  },
+  "filter_status_message": {
+    "1": "Đơn hàng của bạn đã được xác nhận",
+    "2": "Đơn hàng của bạn đang được lấy hàng bởi Đơn vị vận chuyển",
+    "3": "Đơn hàng của bạn đang trên đường giao hàng cho bạn",
+    "4": "Đơn hàng của bạn đã giao hàng thành công",
+    "5": "Đơn hàng của bạn đã được giao một phần",
+    "6": "Đơn hàng của bạn đã được trả hàng",
+    "7": "Đơn hàng của bạn đã hủy"
+  },
+  "validate": {
+    "calculate_price_fail": "Không thể tính được phí giao hàng"
+  }
+}

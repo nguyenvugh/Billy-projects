@@ -1,0 +1,14 @@
+.authenticated-layout__left {
+  width: 25%;
+}
+
+.authenticated-layout__right {
+  width: 75%;
+  background-color: #F7F7FA;
+}
+
+.authenticated-layout__right__main {
+  padding: 0px 20px;
+  min-height: calc(100vh - 60px);
+}
+/*# sourceMappingURL=style.css.map */

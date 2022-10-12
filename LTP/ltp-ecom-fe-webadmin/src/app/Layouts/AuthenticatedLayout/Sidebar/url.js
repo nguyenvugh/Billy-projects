@@ -1,0 +1,23 @@
+export const urlProfile = "/profile";
+
+export const urlAdmin = "/users";
+export const urlPermission = "/authorization";
+export const urlBranch = "/branches-department";
+export const urlCharity = "/charity";
+export const urlCombo = "/combo";
+export const urlCoupon = "/coupon";
+export const urlFlashSale = "/flash-sales";
+export const urlNews = "/news";
+export const urlNewsCategory = "/category";
+export const urlOrders = "/orders";
+export const urlProductCategory = "/product-categories";
+export const urlProductReview = "/product-reviews";
+export const urlProduct = "/products";
+export const urlPromotion = "/promotions";
+export const urlStaticPage = "/static-page";
+export const urlStore = "/stores";
+export const urlUserContact = "/contact";
+export const urlEmailRegister = "/register-email";
+export const urlUserProfile = "/customer";
+export const urlWarehouse = "/warehouse";
+export const urlWarehouseReceipt = "/receipt";

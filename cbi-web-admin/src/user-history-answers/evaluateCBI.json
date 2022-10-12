@@ -1,0 +1,131 @@
+{
+  "title": "ĐÁNH GIÁ CEBI CHO LĨNH VỰC SẢN XUẤT LÚA GẠO",
+  "content": "Chỉ số Khí hậu Doanh nghiệp là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP) cho các công ty tư nhân để đánh giá và ghi nhận đóng góp của họ để giảm phát thải khí nhà kính và giải quyết các tác động của biến đổi khí hậu.",
+  "quiz": [
+    {
+      "title": "Trong sản xuất lúa, doanh nghiệp của anh chị có bị ảnh hưởng bởi các điều kiện bất thường của thời tiết không? Nếu có thì doanh nghiệp đã thay đổi lịch thời vụ để thích ứng với thời tiết bất thuận (hạn, rét, mưa/bão) chưa?",
+      "isAnswered": true,
+      "data": [
+        {
+          "name": "A. Không",
+          "isAnswered": false,
+          "point": 0
+        },
+        {
+          "name": "B. Bị ảnh hưởng nhưng chưa thay đổi lịch thời vụ",
+          "isAnswered": false,
+          "point": 3
+        },
+        {
+          "name": "C. Bị ảnh hưởng và đã thay đổi thời vụ",
+          "isAnswered": true,
+          "point": 0
+        }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng nặng bởi thời tiết bất thuận, doanh nghiệp có thay đổi cơ cấu cây trồng để thích ứng với thời tiết bất thuận (mặn, hạn, rét, mưa/bão) không?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": true }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng nặng bởi hạn, Doanh nghiệp có sử dụng giống lúa chịu hạn không?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": true }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón hữu cơ để tăng cường khả năng chống hạn cho cây ?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": true }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón (bổ sung Ca, Mg: ví dụ phân lân nung chảy Văn Điển), hoặc CaSO4 để tăng cường khả năng chống mặn cho cây ?",
+      "isAnswered": false,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": false }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp/Hợp tác xã có thường xuyên cập nhật thông tin về độ mặn để điều tiết nước tưới cho lúa không?",
+      "isAnswered": false,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": false }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng nặng bởi mặn, Doanh nghiệp có sử dụng giống lúa chịu mặn không?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": true }
+      ]
+    },
+    {
+      "title": "Trong những năm bị ảnh hưởng mặn bởi phèn, Doanh nghiệp có sử dụng giống lúa chịu phèn ?",
+      "isAnswered": false,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": false }
+      ]
+    },
+    {
+      "title": "Trong những năm sâu bệnh phát triển, Doanh nghiệp có sử dụng giống lúa chống chịu sâu bệnh không?",
+      "isAnswered": false,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": false }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng giống lúa chống đổ ngã không?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": true },
+        { "name": "B. Có.", "point": 3, "isAnswered": false }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón (phân kali) để tăng cường khả năng chống rét cho cây ?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": true }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có sử dụng các loại phân bón (phân lân nung chảy), vôi để tăng cường khả năng chống phèn cho cây ?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": true }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có đầu tư hệ thống tưới tiêu chủ động cho lúa không?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": false },
+        { "name": "B. Có.", "point": 3, "isAnswered": true }
+      ]
+    },
+    {
+      "title": "Doanh nghiệp có đầu tư hệ thống tự động hóa trong tưới tiêu cho cây lúa không?",
+      "isAnswered": true,
+      "data": [
+        { "name": "A. Không.", "point": 0, "isAnswered": true },
+        { "name": "B. Có.", "point": 3, "isAnswered": false }
+      ]
+    }
+  ]
+}

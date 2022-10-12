@@ -1,0 +1,42 @@
+{
+  "list": [
+    {
+      "title": "Oxfam tại Việt Nam",
+      "data": [
+        {
+          "target": "_blank",
+          "title": "22 Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",
+          "href": "https://www.google.com/maps/place/22+P.+L%C3%AA+%C4%90%E1%BA%A1i+H%C3%A0nh,+L%C3%AA+%C4%90%E1%BA%A1i+H%C3%A0nh,+Hai+B%C3%A0+Tr%C6%B0ng,+H%C3%A0+N%E1%BB%99i,+Vi%E1%BB%87t+Nam/@21.0099794,105.847884,17z/data=!4m13!1m7!3m6!1s0x3135ab8afb9740d9:0xa06d66d30a689b5f!2zMjIgUC4gTMOqIMSQ4bqhaSBIw6BuaCwgTMOqIMSQ4bqhaSBIw6BuaCwgSGFpIELDoCBUcsawbmcsIEjDoCBO4buZaSwgVmnhu4d0IE5hbQ!3b1!8m2!3d21.0099744!4d105.8500727!3m4!1s0x3135ab8afb9740d9:0xa06d66d30a689b5f!8m2!3d21.0099744!4d105.8500727?hl=vi-VN"
+        }
+      ]
+    },
+    {
+      "title": "Liên hệ",
+      "data": [
+        {
+          "title": "oxfam.vietnam@oxfam.org",
+          "href": "mailto:oxfam.vietnam@oxfam.org"
+        },
+        { "title": "0439.454.448", "href": "tel:0439454448" }
+      ]
+    },
+    {
+      "title": "Giới thiệu",
+      "data": [
+        { "title": "Tổng quan", "href": "/introduce" },
+        { "title": "Câu hỏi (FAQ)", "href": "/statics/faq" }
+      ]
+    },
+    {
+      "title": "Chỉ số khí hậu",
+      "data": [
+        { "title": "CEBI là gì?", "href": "/introduce-evaluate-cebi" },
+        { "title": "Đánh giá CEBI", "href": "/evaluate-cebi" }
+      ]
+    }
+  ],
+  "infomation": {
+    "title": "Miễn trừ trách nhiệm",
+    "description": "Giao diện và các thông tin, tài liệu trình bày trên trang web này không đại diện cho bất cứ ý kiến, quan điểm nào từ Chương trình Phát triển Liên Hiệp Quốc (UNDP) liên quan tới tình trạng pháp lý của bất cứ quốc gia, lãnh thổ, hoặc cá nhân tổ chức nào; không giới hạn bất cứ rào cản, biên giới nào. Các tài liệu tham khảo thu thập từ các nguồn bên ngoài có thể không tuân theo quy chuẩn xuất bản của UNDP. Việc đề cập tới tên và sản phẩm của doanh nghiệp không có nghĩa là chứng nhận từ Liên Hiệp Quốc. Trang web này có thể bao gồm thông tin, ý kiến và phát ngôn của nhiều cá nhân khác nhau. Liên Hiệp Quốc không đại diện hoặc xác nhận tính xác thực của bất cứ thông tin, ý kiến, phát ngôn hay bất cứ thông tin nào khác cung cấp bởi bất cứ cá nhân nào. Các phản hồi của cá nhân Doanh nghiệp tới bộ chỉ số sẽ không được công khai nếu không có sự đồng ý của Doanh nghiệp"
+  }
+}

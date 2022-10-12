@@ -1,0 +1,27 @@
+.productDetailCarousel {
+  > div:last-child {
+    margin-right: 16px;
+    width: 93px;
+    @media (max-width: 594px) {
+      min-width: 70.5px;
+      max-width: 70.5px;
+    }
+    @media (max-width: 460px) {
+      margin-right: 10px;
+      min-width: 51px;
+      max-width: 51px;
+    }
+  }
+  > div:first-child {
+    width: 464px !important;
+    height: 464px;
+    @media (max-width: 594px) {
+      width: 350px !important;
+      height: 350px;
+    }
+    @media (max-width: 460px) {
+      width: 254px !important;
+      height: 254px;
+    }
+  }
+}

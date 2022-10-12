@@ -1,0 +1,8 @@
+{
+  "validate": {
+    "not_found": "Địa chỉ người dùng không tồn tại"
+  },
+  "message": {
+    "deleted": "Đã xóa địa chỉ thành công"
+  }
+}

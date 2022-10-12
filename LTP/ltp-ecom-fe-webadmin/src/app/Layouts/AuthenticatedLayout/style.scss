@@ -1,0 +1,17 @@
+.authenticated-layout {
+  display: flex;
+  &__left {
+    width: 260px;
+    flex-shrink: 0;
+  }
+  &__right {
+    flex-grow: 1;
+    background-color: #f7f7fa;
+    width: calc(100vw - 260px);
+    overflow-y: hidden;
+    &__main {
+      padding: 0px 20px;
+      min-height: calc(100vh - 60px);
+    }
+  }
+}

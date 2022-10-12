@@ -1,0 +1,27 @@
+{
+  "title": "Bản tin CEBI",
+  "description": "<b>CEBI</b> là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP).",
+  "data": [
+    {
+      "id": 10,
+      "name": "sự kiện",
+      "image": "https://danviet.mediacdn.vn/upload/4-2013/images/2013-10-27/1434788808-4c3oxfam2.jpg",
+      "title": "Grow Oxfam đồng hành cùng Cuộc thi ảnh Đất & Người",
+      "description": "Oxfam là một liên minh quốc tế gồm 17 tổ chức cùng phối hợp hoạt động tại 94 quốc gia và cùng làm việc với các đối tác và liên minh khác trên khắp thế giới để tìm giải pháp bền vững cho nghèo đói và bất bình đẳng"
+    },
+    {
+      "id": 8,
+      "name": "Tin tức",
+      "image": "https://danviet.mediacdn.vn/upload/2-2013/images/2013-04-08/1434786454-84_11_nong-dan.jpg",
+      "title": "Oxfam: Trồng lúa ngày càng ít lãi",
+      "description": "(Dân Việt) - Nếu như năm 2006, mặc dù giá gạo còn thấp, song người nông dân vẫn có thể thu được 70% tổng lợi nhuận từ sản xuất và kinh doanh lúa gạo..."
+    },
+    {
+      "id": 6,
+      "name": "sự kiện",
+      "image": "https://danviet.mediacdn.vn/upload/2-2017/images/2017-05-18/149509963461864-anh-1--21-.jpg",
+      "title": "Oxfam công bố danh sách “15 thiên đường thuế”",
+      "description": "Ngày 18.5, tổ chức Oxfam đã công bố danh sách “15 thiên đường thuế” được xây dựng dựa trên các tiêu chí về thuế suất thuế thu nhập doanh nghiệp, ưu đãi..."
+    }
+  ]
+}

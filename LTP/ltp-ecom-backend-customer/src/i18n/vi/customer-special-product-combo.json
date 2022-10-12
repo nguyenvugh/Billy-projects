@@ -1,0 +1,8 @@
+{
+  "message": {
+    "fav_updated": "Đã cập nhật combo sản phẩm yêu thích thành công",
+    "fav_deleted": "Đã xóa combo sản phẩm yêu thích thành công",
+    "fav_delete_fail": "Xóa combo sản phẩm yêu thích không thành công",
+    "all_fav_deleted": "Đã xóa toàn bộ combo sản phẩm yêu thích thành công"
+  }
+}

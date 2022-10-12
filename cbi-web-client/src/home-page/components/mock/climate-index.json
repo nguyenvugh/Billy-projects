@@ -1,0 +1,21 @@
+{
+  "title": "Chỉ số doanh nghiệp hành động vì khí hậu và môi trường(CEBI) là gì?",
+  "description": "<b>CEBI</b> là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP).",
+  "data": [
+    {
+      "image": "/img/mock/home-page/introduce_cbi.svg",
+      "title": "Giới thiệu CEBI",
+      "description": "Chỉ số Khí hậu Doanh nghiệp là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP) cho các công ty."
+    },
+    {
+      "image": "/img/mock/home-page/benefits_cbi.svg",
+      "title": "Lợi ích của CEBI",
+      "description": "Chỉ số Khí hậu Doanh nghiệp là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP) cho các công ty."
+    },
+    {
+      "image": "/img/mock/home-page/mission_cbi.svg",
+      "title": "Tầm nhìn - Sứ mệnh",
+      "description": "Chỉ số Khí hậu Doanh nghiệp là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP) cho các công ty."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Doanh nghiệp nói gì về ?",
+  "description": "<b>CEBI</b> là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP).",
+  "data": [
+    {
+      "content": "Để đối phó với biến đổi khí hậu, hiện ngành nông nghiệp đang tích cực tiến hành công nghiệp hóa, hiện đại hóa nông nghiệp.",
+      "user": {
+        "name": "Bà Babeth Ngoc Han Lefur",
+        "type": "Giám đốc tổ chức Oxfam tại Việt Nam",
+        "image": "/img/avatars/avatar-1.png"
+      }
+    },
+    {
+      "content": "Dự án của Oxfam tại Việt Nam tập trung vào các lĩnh vực phát triển nông thôn, giảm thiểu rủi ro, ứng phó với biến đổi khí hậu và thảm họa.",
+      "user": {
+        "name": "Ông Phạm Quang Tú",
+        "type": "Phó Giám đốc Quốc gia Tổ chức Oxfam ",
+        "image": "/img/avatars/avatar-2.png"
+      }
+    },
+    {
+      "content": "Oxfam là một liên minh quốc tế của 15 tổ chức làm việc tại 98 quốc gia trên toàn thế giới để tìm giải pháp lâu dài cho vấn đề biến đổi khí hậu và giảm thiểu khí thải môi trường. ",
+      "user": {
+        "name": "Bà Nguyễn Thị Lê Hoa",
+        "type": "Đại diện Oxfam tại Việt Nam.",
+        "image": "/img/avatars/avatar-3.png"
+      }
+    },
+    {
+      "content": "Khi tiến hành hợp tác, mục tiêu quan trọng nhất mà chúng tôi hướng tới là gìn giữ và phát triển nhãn hiệu sản phẩm nông sản Việt Nam.",
+      "user": {
+        "name": "Bà Nguyễn Thị Trà My",
+        "type": "CEO Tập đoàn PAN.",
+        "image": "/img/avatars/avatar-4.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+export enum ConfigCebiKey {
+  FOOTER_CONFIG = 'FOOTER_CONFIG',
+  PAGE_HOME = 'PAGE_HOME',
+  PAGE_INTRO = 'PAGE_INTRO',
+  PAGE_POLICIES = 'PAGE_POLICIES',
+  PAGE_CONDITIONS = 'PAGE_CONDITIONS',
+}
+
+export enum ConfigCebiType {
+  FORM = 'FORM',
+  PAGE = 'PAGE',
+}

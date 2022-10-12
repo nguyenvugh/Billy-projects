@@ -1,0 +1,11 @@
+{
+  "validate": {
+    "coupon_invalid": "Mã giảm giá không thể sử dụng vì vi phạm điều kiện áp dụng",
+    "create_fail": "Tạo đơn hàng không thành công",
+    "not_found": "Đơn hàng không tồn tại",
+    "cancel_fail": "Không thể hủy đơn hàng",
+    "cancel_success": "Đã hủy đơn hàng",
+    "validate_product_order_fail": "Dữ liệu không hợp lệ",
+    "validate_product_order_out_of_stock_product": "Hiện chỉ còn @@remaining_number@@ sản phẩm"
+  }
+}

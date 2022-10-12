@@ -1,0 +1,30 @@
+{
+  "title": "Nhà tài trợ dự án",
+  "description": "<b>CEBI</b> là một hệ thống đăng ký tự nguyện dựa trên web, được phát triển bởi Chương trình Phát triển Liên Hợp Quốc (UNDP).",
+  "data": [
+    {
+      "image": "/img/mock/home-page/img_donor1.svg"
+    },
+    {
+      "image": "/img/mock/home-page/img_donor2.svg"
+    },
+    {
+      "image": "/img/mock/home-page/img_donor3.svg"
+    },
+    {
+      "image": "/img/mock/home-page/img_donor4.svg"
+    },
+    {
+      "image": "/img/mock/home-page/img_donor1.svg"
+    },
+    {
+      "image": "/img/mock/home-page/img_donor2.svg"
+    },
+    {
+      "image": "/img/mock/home-page/img_donor3.svg"
+    },
+    {
+      "image": "/img/mock/home-page/img_donor4.svg"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.tree-select-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tree-select-menu ul {
+  margin: 0;
+  padding: 0;
+  margin-left: 28px;
+  list-style: none;
+}

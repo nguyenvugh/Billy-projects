@@ -1,0 +1,41 @@
+.basic-modal {
+  position: absolute;
+  width: 600px;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: #ffffff;
+  border-radius: 6px;
+}
+
+.basic-modal__header {
+  padding: 20px;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+.basic-modal__header__title {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.basic-modal__header .danger {
+  color: #FF0000;
+}
+
+.basic-modal__body {
+  padding: 20px;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+.basic-modal__footer {
+  padding: 10px 20px;
+  text-align: right;
+}
+
+.basic-modal__footer__close-btn {
+  text-transform: capitalize !important;
+  font-size: 14px !important;
+  padding: 5px 30px !important;
+}
+/*# sourceMappingURL=style.css.map */

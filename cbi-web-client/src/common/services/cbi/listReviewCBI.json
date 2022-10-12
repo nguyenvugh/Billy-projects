@@ -1,0 +1,316 @@
+{
+  "results": [
+    {
+      "id": "fa0c5375-e12d-4f24-a1fe-9825a407ece9",
+      "name": "A. Nhận thức về tác động của biến đổi khí hậu trong hoạt động / sản phẩm & dịch vụ",
+      "description": null,
+      "order_display": 1,
+      "questions": [
+        {
+          "id": "e2ef5076-ff1a-419f-95bf-34a0cab8a5d3",
+          "title": "Anh/chị có thể thấy được được các rủi ro do khí thải nhà kính không?",
+          "order_display": 2,
+          "total_scores": "4",
+          "status_answer_mandatory": 1,
+          "options": [
+            {
+              "id": "7082810f-e91b-47e1-a5b9-375038b06af2",
+              "type": 2,
+              "values": [
+                {
+                  "id": "1f09e38c-3741-49f8-b07e-29fd508b1abf",
+                  "title": "A. Có.",
+                  "score": "1",
+                  "status_right_option_value": -1
+                },
+                {
+                  "id": "f548f842-2753-4214-94a9-71dee888a751",
+                  "title": "E. Giảm khí thải nhà kính mở ra rất nhiều cơ hội cho các doanh nghiệp",
+                  "score": "1",
+                  "status_right_option_value": 1
+                },
+                {
+                  "id": "93926d83-b626-42d7-b039-44297f434e51",
+                  "title": "D. Khí thải nhà kính không ảnh hưởng quá nhiều đến việc canh tác của nông dân",
+                  "score": "1",
+                  "status_right_option_value": 1
+                },
+                {
+                  "id": "1ba6b275-19a1-46ee-aadb-e28df5538646",
+                  "title": "C. Khí thải nhà kính ảnh hưởng rất nhiều đến việc canh tác của nông dân",
+                  "score": "1",
+                  "status_right_option_value": 1
+                },
+                {
+                  "id": "91490edc-1e60-4d22-893c-691014d7b772",
+                  "title": "B. Không",
+                  "score": "0",
+                  "status_right_option_value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fc35241a-a2b2-4dfc-abb7-ede5c2fb8311",
+          "title": "Anh/chị có thể thấy được được các rủi ro do khí thải nhà kính?",
+          "order_display": 3,
+          "total_scores": "5",
+          "status_answer_mandatory": 1,
+          "options": [
+            {
+              "id": "b3d1f121-f183-4df3-8cd5-4022e052205d",
+              "type": 1,
+              "values": [
+                {
+                  "id": "77ab0dc2-4214-4b99-aa76-224419d3f63d",
+                  "title": "B. Không",
+                  "score": "0",
+                  "status_right_option_value": -1
+                },
+                {
+                  "id": "8b653aa8-c280-4dba-9605-a3d701560ab5",
+                  "title": "A. Có.",
+                  "score": "1",
+                  "status_right_option_value": 1
+                }
+              ]
+            },
+            {
+              "id": "205045a9-3902-43d3-ab59-7463f28944e4",
+              "type": 3,
+              "values": [
+                {
+                  "id": "f5ae0cdc-258b-463f-b951-a1d990be59b6",
+                  "title": "Mô tả tài liệu",
+                  "score": "2",
+                  "status_right_option_value": null
+                }
+              ]
+            },
+            {
+              "id": "313c4b99-6d02-4b07-aa50-7cc3a3964d35",
+              "type": 4,
+              "values": [
+                {
+                  "id": "f32be140-e7bc-4196-a29f-2950e7fef77e",
+                  "title": "Tải tài liệu",
+                  "score": "2",
+                  "status_right_option_value": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a3450170-80c6-401d-8ab6-abd41446e729",
+          "title": "Hello",
+          "order_display": 4,
+          "total_scores": "0",
+          "status_answer_mandatory": -1,
+          "options": [
+            {
+              "id": "dd7f1dc4-c34d-4671-b6d6-3535693a9773",
+              "type": 4,
+              "values": [
+                {
+                  "id": "9f5d476e-2c35-4b69-8e49-9882fad2ada6",
+                  "title": "Tải tài liệu",
+                  "score": "0",
+                  "status_right_option_value": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9bc860b5-0953-49ca-8332-e258ac37aeac",
+          "title": "Abc",
+          "order_display": 5,
+          "total_scores": "3",
+          "status_answer_mandatory": -1,
+          "options": [
+            {
+              "id": "57f70fa6-0e5c-4d8b-971c-be6b87ca9f8a",
+              "type": 1,
+              "values": [
+                {
+                  "id": "a481645e-b5f5-49e0-9f74-3e7fa701d0e0",
+                  "title": "No",
+                  "score": "0",
+                  "status_right_option_value": -1
+                },
+                {
+                  "id": "5553d776-b2d3-4df7-a68c-cf505956c004",
+                  "title": "Yes",
+                  "score": "1",
+                  "status_right_option_value": 1
+                }
+              ]
+            },
+            {
+              "id": "a686e7a7-f8fd-469c-bf57-f73e402aab74",
+              "type": 3,
+              "values": [
+                {
+                  "id": "dcbdce36-2dd7-4433-a120-d0fc369d6f97",
+                  "title": "Tu luan",
+                  "score": "1",
+                  "status_right_option_value": null
+                }
+              ]
+            },
+            {
+              "id": "e3fde2f6-9fe7-48f3-8aaa-37cfb0d8c825",
+              "type": 4,
+              "values": [
+                {
+                  "id": "c278e9a3-f488-47b7-8b93-ecd56f16aa55",
+                  "title": "Tải tài liệu",
+                  "score": "1",
+                  "status_right_option_value": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f62f4c0-cc35-4d25-b9c1-eaa406199ee7",
+      "name": "B. Nhận thức về tác động của biến đổi khí hậu trong hoạt động / sản phẩm & dịch vụ",
+      "description": null,
+      "order_display": 2,
+      "questions": [
+        {
+          "id": "d0227e87-e4fe-4f34-8995-9e1eef5c4a95",
+          "title": "Anh thấy sao",
+          "order_display": 1,
+          "total_scores": "2",
+          "status_answer_mandatory": 1,
+          "options": [
+            {
+              "id": "61af27c2-e95f-4e83-a2e8-7ca7c50b2e0c",
+              "type": 3,
+              "values": [
+                {
+                  "id": "3dceb599-0556-44a7-9a9f-d90bf3a548a6",
+                  "title": "Hello",
+                  "score": "1",
+                  "status_right_option_value": null
+                }
+              ]
+            },
+            {
+              "id": "23200482-3259-47d6-931a-7ac23f21472a",
+              "type": 4,
+              "values": [
+                {
+                  "id": "bc18fba8-0338-4773-bcc9-99bbbfbb9280",
+                  "title": "Tải tài liệu",
+                  "score": "1",
+                  "status_right_option_value": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a93abf9f-6251-42a2-ac21-307b1cf2ee28",
+          "title": "Some ques",
+          "order_display": 2,
+          "total_scores": "1",
+          "status_answer_mandatory": 1,
+          "options": [
+            {
+              "id": "4c2ecb03-da96-400a-bac7-63436524ebe3",
+              "type": 1,
+              "values": [
+                {
+                  "id": "ddc7631f-485a-4800-a6ab-ab0238b4432c",
+                  "title": "B",
+                  "score": "0",
+                  "status_right_option_value": -1
+                },
+                {
+                  "id": "39471add-43a9-4a3f-b5e9-acbebf717f65",
+                  "title": "A",
+                  "score": "1",
+                  "status_right_option_value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "67b93335-f889-4952-bfea-547af88fadc7",
+          "title": "Some question",
+          "order_display": 3,
+          "total_scores": "1",
+          "status_answer_mandatory": -1,
+          "options": [
+            {
+              "id": "1706832d-0e45-4490-aea9-1c0239e33152",
+              "type": 1,
+              "values": [
+                {
+                  "id": "b888c613-cc58-4eef-b0eb-3c195c1ad4b8",
+                  "title": "B",
+                  "score": "0",
+                  "status_right_option_value": -1
+                },
+                {
+                  "id": "2c3ff2b8-de4e-4f84-ae1a-9395010ba79c",
+                  "title": "C",
+                  "score": "1",
+                  "status_right_option_value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "06f8b5db-d155-43e9-94c2-cd7def53ae22",
+          "title": "ABC",
+          "order_display": 4,
+          "total_scores": "1",
+          "status_answer_mandatory": -1,
+          "options": [
+            {
+              "id": "5be3d195-5986-44a9-8fa0-ada200c82ac9",
+              "type": 1,
+              "values": [
+                {
+                  "id": "6167e729-f8d4-4845-b385-b4dc05333899",
+                  "title": "B",
+                  "score": "0",
+                  "status_right_option_value": -1
+                },
+                {
+                  "id": "bd7ea705-a2dd-445a-8d75-68b1dcd289f7",
+                  "title": "C",
+                  "score": "1",
+                  "status_right_option_value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64c640e7-0267-4f48-87ee-6c794d173146",
+      "name": "C. Nhận thức về tác động của biến đổi khí hậu trong hoạt động / sản phẩm & dịch vụ",
+      "description": null,
+      "order_display": 3,
+      "questions": []
+    },
+    {
+      "id": "2900f5f4-8782-4803-9b28-432cea19e0ad",
+      "name": "D. Test",
+      "description": null,
+      "order_display": 4,
+      "questions": []
+    }
+  ]
+}

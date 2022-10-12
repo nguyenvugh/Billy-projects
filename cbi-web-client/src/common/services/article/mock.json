@@ -1,0 +1,759 @@
+{
+  "categories": [
+    {
+      "childrens": [
+        {
+          "author": "OXFAM Việt Nam",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 4,
+          "scheduled_at": "2022-02-19T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://oi-files-cng-prod.s3.amazonaws.com/vietnam.oxfam.org/s3fs-public/styles/full-width-670x335-2_1/public/20. IMG_2638.jpg?itok=OQDJNBg2"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "[Booklet] Dự án Hỗ trợ Doanh nghiệp vì Mục đích phát triển giai đoạn 2 (2018 - 2021)",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "Dự án Hỗ trợ Doanh nghiệp vì mục đích phát triển - Hỗ trợ Doanh Nghiệp Kinh Doanh Tạo Tác động Trong Chuỗi Giá Trị Nông Nghiệp, gọi tắt là EFD, hướng tới mục tiêu giúp đối tượng yếu thế (các hộ nông dân quy mô nhỏ, phụ nữ nghèo, thanh thiếu niên nghèo) nâng cao vị thế, có thêm việc làm, tăng thu nhập, đư",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 5,
+          "scheduled_at": "2022-02-17T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://danviet.mediacdn.vn/thumb_w/650/2020/4/9/indiapoor-15864249094161136506868.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam: Đại dịch Covid-19 đang đẩy nửa triệu người vào cảnh nghèo đói",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 3,
+          "scheduled_at": "2022-02-20T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-24/1434417026-ijffba_hoa_vixp.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Đại diện Oxfam tại Việt Nam: \"Đất và Người\" tôn vinh giá trị người nông dân",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 9,
+          "scheduled_at": "2022-02-20T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://danviet.mediacdn.vn/zoom/250_156/upload/4-2013/images/2013-11-04/1434786689-a2cox.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam: Luật Đất đai cần “phản ánh đầy đủ nguyện vọng nhân dân”",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 11,
+          "scheduled_at": "2022-02-20T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://oi-files-cng-prod.s3.amazonaws.com/vietnam.oxfam.org/s3fs-public/OES_33100_oxfam_intermon_staff_volunteers.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam: Tương lai là bình đẳng",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>Oxfam là một phong trào toàn cầu của những người đấu tranh chống bất bình đẳng để chấm dứt nghèo đói và bất công. Trên khắp các khu vực, từ địa phương đến toàn cầu, chúng tôi làm việc với mọi người để mang lại sự thay đổi lâu dài.</p>",
+              "news": 76
+            }
+          ]
+        }
+      ],
+      "created_at": "2021-07-23T06:16:28.000Z",
+      "deleted": -1,
+      "id": 36,
+      "order": 0,
+      "translates": [
+        {
+          "id": 115,
+          "language_code": "vi",
+          "language_field": "name",
+          "language_value": "Công ty",
+          "news_category": 36
+        }
+      ],
+      "updated_at": "2021-07-23T06:16:28.000Z"
+    },
+    {
+      "childrens": [
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 6,
+          "scheduled_at": "2021-11-30T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://danviet.mediacdn.vn/upload/2-2017/images/2017-05-18/149509963461864-anh-1--21-.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam công bố danh sách “15 thiên đường thuế”",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "Phân tích của Oxfam cho thấy, 90% các công ty lớn nhất thế giới có mặt tại ít nhất một thiên đường thuế, hiện mức thuế suất mà các công ty này phải đóng là 25,9%, thấp hơn 10% mức thuế được quy định trong luật.",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 7,
+          "scheduled_at": "2021-11-30T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://danviet.mediacdn.vn/zoom/250_156/upload/2-2014/images/2014-04-29/1434380372-e5a4lua.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam khuyến nghị đẩy mạnh nông nghiệp sinh thái",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 8,
+          "scheduled_at": "2021-11-30T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://danviet.mediacdn.vn/upload/2-2013/images/2013-04-08/1434786454-84_11_nong-dan.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam: Trồng lúa ngày càng ít lãi",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 10,
+          "scheduled_at": "2021-11-30T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://danviet.mediacdn.vn/upload/4-2013/images/2013-10-27/1434788808-4c3oxfam2.jpg"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Grow Oxfam đồng hành cùng Cuộc thi ảnh Đất & Người",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": "<p>LTP <a href=\"http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf\">http://cbi.undp.org.vn/wp-content/uploads/2020/07/CEBI-Manual_06.23.2020_VN.pdf</a></p><p>&nbsp;</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/3fec4aca-848b-42f2-bfab-cc69455534f5-CX390-1.jpg\"><figcaption>cần xé</figcaption></figure>",
+              "news": 76
+            }
+          ]
+        },
+        {
+          "author": "LTP",
+          "category": 36,
+          "created_at": "2021-11-30T10:45:21.000Z",
+          "deleted": -1,
+          "features": 1,
+          "id": 12,
+          "scheduled_at": "2021-11-30T10:45:00.000Z",
+          "status": 2,
+          "thumbnail_obj": {
+            "created_at": "2021-11-30T10:45:21.000Z",
+            "deleted": -1,
+            "id": 2126,
+            "name": "525a2321-05fc-4c5f-a4fa-24af0024441e-201111011639553955.jpg",
+            "updated_at": "2021-11-30T10:45:21.000Z",
+            "url": "https://oi-files-cng-prod.s3.amazonaws.com/vietnam.oxfam.org/s3fs-public/styles/full-width-670x335-2_1/public/28930272935_6a1a60153f_o_0.jpg?itok=onKQfEKN"
+          },
+          "thumbnail": 2126,
+          "updated_at": "2021-11-30T10:45:58.000Z",
+          "translates": [
+            {
+              "id": 1029,
+              "language_code": "vi",
+              "language_field": "name",
+              "language_value": "Oxfam tại Việt Nam tổ chức lễ ra mắt WEAVE",
+              "news": 76
+            },
+            {
+              "id": 1030,
+              "language_code": "vi",
+              "language_field": "desc",
+              "language_value": "LTP",
+              "news": 76
+            },
+            {
+              "id": 1031,
+              "language_code": "vi",
+              "language_field": "content",
+              "language_value": " <p>Hôm nay, Oxfam tại Việt Nam đã tổ chức lễ ra mắt chính thức dự án Trao quyền kinh tế cho Phụ nữ thông qua Nâng cao Chuỗi Giá trị Nông nghiệp (WEAVE), một sự hợp tác giữa ba tổ chức phi chính phủ quốc tế - SN",
+              "news": 76
+            }
+          ]
+        }
+      ],
+      "created_at": "2021-07-23T06:16:28.000Z",
+      "deleted": -1,
+      "id": 37,
+      "order": 0,
+      "translates": [
+        {
+          "id": 115,
+          "language_code": "vi",
+          "language_field": "name",
+          "language_value": "Công ty",
+          "news_category": 36
+        }
+      ],
+      "updated_at": "2021-07-23T06:16:28.000Z"
+    }
+  ],
+  "features": [
+    {
+      "author": "Nhựa Long Thành",
+      "category": 37,
+      "created_at": "2021-08-01T14:10:39.000Z",
+      "deleted": -1,
+      "en.content": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+      "en.desc": "Description",
+      "en.name": "Title",
+      "features": 4,
+      "id": 61,
+      "scheduled_at": "2021-08-27T02:36:00.000Z",
+      "status": 2,
+      "thumbnail": 1847,
+      "thumbnail_obj": {
+        "deleted": -1,
+        "created_at": "2021-09-27T01:10:43.000Z",
+        "updated_at": "2021-09-27T01:10:43.000Z",
+        "id": 1847,
+        "name": "6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png",
+        "url": "https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png"
+      },
+      "translates": [
+        {
+          "id": 1023,
+          "language_code": "vi",
+          "language_field": "name",
+          "language_value": "Thách thức trong bảo tồn thiên nhiên và đa dạng sinh học",
+          "news": 61
+        },
+        {
+          "id": 1024,
+          "language_code": "vi",
+          "language_field": "desc",
+          "language_value": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+          "news": 61
+        },
+        {
+          "id": 1025,
+          "language_code": "vi",
+          "language_field": "content",
+          "language_value": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+          "news": 61
+        },
+        {
+          "id": 1026,
+          "language_code": "en",
+          "language_field": "name",
+          "language_value": "Title",
+          "news": 61
+        },
+        {
+          "id": 1027,
+          "language_code": "en",
+          "language_field": "desc",
+          "language_value": "Description",
+          "news": 61
+        },
+        {
+          "id": 1028,
+          "language_code": "en",
+          "language_field": "content",
+          "language_value": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+          "news": 61
+        }
+      ],
+      "updated_at": "2022-01-08T10:21:20.000Z",
+      "vi.content": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+      "vi.desc": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+      "vi.name": "BlackBi mời đại gia Minh Nhựa tham gia MV.Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của"
+    },
+    {
+      "author": "Nhựa Long Thành",
+      "category": 37,
+      "created_at": "2021-08-01T14:10:39.000Z",
+      "deleted": -1,
+      "en.content": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+      "en.desc": "Description",
+      "en.name": "Title",
+      "features": 4,
+      "id": 61,
+      "scheduled_at": "2021-08-27T02:36:00.000Z",
+      "status": 2,
+      "thumbnail": 1847,
+      "thumbnail_obj": {
+        "deleted": -1,
+        "created_at": "2021-09-27T01:10:43.000Z",
+        "updated_at": "2021-09-27T01:10:43.000Z",
+        "id": 1847,
+        "name": "6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png",
+        "url": "https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png"
+      },
+      "translates": [
+        {
+          "id": 1023,
+          "language_code": "vi",
+          "language_field": "name",
+          "language_value": "Thách thức trong bảo tồn thiên nhiên và đa dạng sinh học",
+          "news": 61
+        },
+        {
+          "id": 1024,
+          "language_code": "vi",
+          "language_field": "desc",
+          "language_value": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+          "news": 61
+        },
+        {
+          "id": 1025,
+          "language_code": "vi",
+          "language_field": "content",
+          "language_value": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+          "news": 61
+        },
+        {
+          "id": 1026,
+          "language_code": "en",
+          "language_field": "name",
+          "language_value": "Title",
+          "news": 61
+        },
+        {
+          "id": 1027,
+          "language_code": "en",
+          "language_field": "desc",
+          "language_value": "Description",
+          "news": 61
+        },
+        {
+          "id": 1028,
+          "language_code": "en",
+          "language_field": "content",
+          "language_value": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+          "news": 61
+        }
+      ],
+      "updated_at": "2022-01-08T10:21:20.000Z",
+      "vi.content": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+      "vi.desc": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+      "vi.name": "BlackBi mời đại gia Minh Nhựa tham gia MV.Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của"
+    },
+    {
+      "author": "Nhựa Long Thành",
+      "category": 37,
+      "created_at": "2021-08-01T14:10:39.000Z",
+      "deleted": -1,
+      "en.content": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+      "en.desc": "Description",
+      "en.name": "Title",
+      "features": 4,
+      "id": 61,
+      "scheduled_at": "2021-08-27T02:36:00.000Z",
+      "status": 2,
+      "thumbnail": 1847,
+      "thumbnail_obj": {
+        "deleted": -1,
+        "created_at": "2021-09-27T01:10:43.000Z",
+        "updated_at": "2021-09-27T01:10:43.000Z",
+        "id": 1847,
+        "name": "6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png",
+        "url": "https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png"
+      },
+      "translates": [
+        {
+          "id": 1023,
+          "language_code": "vi",
+          "language_field": "name",
+          "language_value": "Thách thức trong bảo tồn thiên nhiên và đa dạng sinh học",
+          "news": 61
+        },
+        {
+          "id": 1024,
+          "language_code": "vi",
+          "language_field": "desc",
+          "language_value": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+          "news": 61
+        },
+        {
+          "id": 1025,
+          "language_code": "vi",
+          "language_field": "content",
+          "language_value": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+          "news": 61
+        },
+        {
+          "id": 1026,
+          "language_code": "en",
+          "language_field": "name",
+          "language_value": "Title",
+          "news": 61
+        },
+        {
+          "id": 1027,
+          "language_code": "en",
+          "language_field": "desc",
+          "language_value": "Description",
+          "news": 61
+        },
+        {
+          "id": 1028,
+          "language_code": "en",
+          "language_field": "content",
+          "language_value": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+          "news": 61
+        }
+      ],
+      "updated_at": "2022-01-08T10:21:20.000Z",
+      "vi.content": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+      "vi.desc": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+      "vi.name": "BlackBi mời đại gia Minh Nhựa tham gia MV.Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của"
+    },
+    {
+      "author": "Nhựa Long Thành",
+      "category": 37,
+      "created_at": "2021-08-01T14:10:39.000Z",
+      "deleted": -1,
+      "en.content": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+      "en.desc": "Description",
+      "en.name": "Title",
+      "features": 4,
+      "id": 61,
+      "scheduled_at": "2021-08-27T02:36:00.000Z",
+      "status": 2,
+      "thumbnail": 1847,
+      "thumbnail_obj": {
+        "deleted": -1,
+        "created_at": "2021-09-27T01:10:43.000Z",
+        "updated_at": "2021-09-27T01:10:43.000Z",
+        "id": 1847,
+        "name": "6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png",
+        "url": "https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/6c24c98d-ed7a-4cf5-844c-37b9c122fdeb-news2.png"
+      },
+      "translates": [
+        {
+          "id": 1023,
+          "language_code": "vi",
+          "language_field": "name",
+          "language_value": "Thách thức trong bảo tồn thiên nhiên và đa dạng sinh học",
+          "news": 61
+        },
+        {
+          "id": 1024,
+          "language_code": "vi",
+          "language_field": "desc",
+          "language_value": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+          "news": 61
+        },
+        {
+          "id": 1025,
+          "language_code": "vi",
+          "language_field": "content",
+          "language_value": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+          "news": 61
+        },
+        {
+          "id": 1026,
+          "language_code": "en",
+          "language_field": "name",
+          "language_value": "Title",
+          "news": 61
+        },
+        {
+          "id": 1027,
+          "language_code": "en",
+          "language_field": "desc",
+          "language_value": "Description",
+          "news": 61
+        },
+        {
+          "id": 1028,
+          "language_code": "en",
+          "language_field": "content",
+          "language_value": "<p>2 members of TTTeam joined with ...</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/0104c322-8897-4f36-a9aa-14c0d35d51ee-nlt.png\"></figure>",
+          "news": 61
+        }
+      ],
+      "updated_at": "2022-01-08T10:21:20.000Z",
+      "vi.content": "<p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ...</p><p>Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV</p><p>“Đàn cò và sáo trúc là những nhạc cụ dân gian rất quen thuộc với người bình dân sinh sống ở khu vực Nam Bộ. Việc đưa hai nhạc cụ này vào phối khí, chúng tôi mong muốn mang đến một cảm giác khơi gợi, thân thuộc cho những khán giả trung thành của mình - đa phần là người bình dân. Bên cạnh đó, việc kết hợp giữa một thể loại âm nhạc xuất xứ từ Tây phương - old school và nhạc cụ dân tộc Việt Nam, với chúng tôi là một sự thể nghiệm mới mẻ và hi vọng sẽ được đón nhận”, đại diện nhà sản xuất chia sẻ.</p><figure class=\"image\"><img src=\"https://ltp-s3-dev-bucket.s3.ap-southeast-1.amazonaws.com/9d6e2789-6080-479b-819d-53b2aaccf846-news2.png\"></figure>",
+      "vi.desc": "Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MV",
+      "vi.name": "BlackBi mời đại gia Minh Nhựa tham gia MV.Hai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của TTeam và đại gia Minh Nhựa tại bối cảnh quay MVHai thành viên của"
+    }
+  ]
+}
